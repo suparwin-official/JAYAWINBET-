@@ -1,0 +1,1 @@
+admin-panel/apps/.gitignore
